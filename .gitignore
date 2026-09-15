@@ -1,3 +1,6 @@
+# Credentials (real deploy token - never commit)
+UpdateGoldenLimits.bat
+
 # Build artifacts
 dist/
 build/
