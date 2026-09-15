@@ -1,0 +1,38 @@
+# Build artifacts
+dist/
+build/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Production/sensitive config data
+Masterlist/
+ProductionList/
+
+# Presentation and documentation tools
+create_presentation.py
+generate_flowchart.py
+*.pptx
+flow_diagram.png
+flow_diagram.yaml
+demo_script.md
+
+# Original/legacy versions
+test_sequence_checker.py
+SI_Test_Coverage_Checker_Tool.py
+TestScope.spec
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Claude
+.claude/
